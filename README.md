@@ -1,1 +1,1 @@
-# Analysis of El Mhamdi et al (2017), Machine Learning with Adversaries: Byzantine-Resilient Gradient Descent
+# Analysis and follow up of El Mhamdi et al (2017), Machine Learning with Adversaries: Byzantine-Resilient Gradient Descent
